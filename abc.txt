@@ -1,1 +1,5 @@
 hello I'm abc.txt file.
+
+Adding alphabets in the file
+A B C D E F G H I J K L m
+N O P Q R S T U V W X Y Z
